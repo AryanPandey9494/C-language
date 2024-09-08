@@ -20,6 +20,8 @@ int main(){
         printf("your rating is 4\n");
         break;
     case 5: 
+
+    
         printf("your rating is 5\n");
         break;
 
